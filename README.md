@@ -1,1 +1,3 @@
-# epam_dqe_hw1
+[OnlineUA] DWBI\DQE Program 2020
+
+VCS, GIT, Reg.Exp Homework
